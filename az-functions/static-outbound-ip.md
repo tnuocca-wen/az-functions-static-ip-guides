@@ -1,4 +1,4 @@
-# Permanent OUTBOUND IP (for Whitelisting)
+# Configuring a permanent OUTBOUND IP (for Whitelisting)
 **Goal:** Ensure every request leaving your Azure Function comes from one specific, unchanging Public IP address.
 
 #### **Supported Hosting Plans**
