@@ -7,4 +7,5 @@ title: Home
 
 ## Available Guides
 
+### Azure Functions
 - [Static Outbound IP Guide](/static-outbound-ip)
